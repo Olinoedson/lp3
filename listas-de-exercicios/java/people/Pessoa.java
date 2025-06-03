@@ -1,3 +1,4 @@
+package people;
     class Pessoa{
         private int idade;
         private String nome;
